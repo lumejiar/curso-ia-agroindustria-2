@@ -57,7 +57,7 @@ Ejes de aplicación (casos por carrera):
 
 ### Opción A: GitHub Codespaces (recomendado)
 1. Abre el entorno:
-   [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/<TU_USUARIO>/curso-ia-agroindustria-2)
+   [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/asoleal/curso-ia-agroindustria-2)
 2. En la terminal, verifica:
    ```bash
    python --version
